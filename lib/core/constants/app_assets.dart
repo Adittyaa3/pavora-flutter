@@ -3,11 +3,14 @@
   // Kelas untuk menyimpan path gambar
   class AppImages {
     static const String chair1 = 'assets/images/kursi1.png';
+
+    static const String placeholderProduk = 'assets/images/kursi1.png';
   // Tambahkan path gambar lain jika diperlukan
   // static const String chair2 = 'assets/images/kursi2.png';
     static const String profileImage = 'assets/images/profile.png'; // Gambar profil
     static const String orderImage = 'assets/images/kursi1.png'; // Gambar untuk pesanan
     static const String categoris = 'assets/images/categories.png'; // Gambar untuk pesanan
+    static const String pay = 'assets/images/pay.png'; // Gambar untuk pesanan
   }
 
   // Kelas untuk menyimpan gaya teks
